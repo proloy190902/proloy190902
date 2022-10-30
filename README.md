@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Proloy Kumar Mondal</h1>
 <h3 align="center">Being Python Programmer, I'm Machine Learning and Deep Learning addicted. Doing Electronics and Communication Engineering discipline at Khulna University, Khulna</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proloy190902" alt="proloy190902" /></a> </p>
-
 - 🌱 I’m currently learning **DATA SCIENCE**
 
 - 📫 How to reach me **01944489399,proloykumar1996@gmail.com**
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proloy190902&show_icons=true&locale=en&layout=compact" alt="proloy190902" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proloy190902&show_icons=true&locale=en" alt="proloy190902" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proloy190902&" alt="proloy190902" /></p>
